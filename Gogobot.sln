@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gogobot", "Gogobot\Gogobot.csproj", "{84E139B2-321F-4CE9-A249-038EE5A35FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gogolib", "Gogolib\Gogolib.csproj", "{29C840AC-8152-42AE-8C3B-39781DD547A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E139B2-321F-4CE9-A249-038EE5A35FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E139B2-321F-4CE9-A249-038EE5A35FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E139B2-321F-4CE9-A249-038EE5A35FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E139B2-321F-4CE9-A249-038EE5A35FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C840AC-8152-42AE-8C3B-39781DD547A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C840AC-8152-42AE-8C3B-39781DD547A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C840AC-8152-42AE-8C3B-39781DD547A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C840AC-8152-42AE-8C3B-39781DD547A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2C5AF14-DBCD-4DC3-8EF2-23DAFF309CE6}
+	EndGlobalSection
+EndGlobal
