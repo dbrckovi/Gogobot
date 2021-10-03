@@ -13,6 +13,11 @@ namespace Gogobot
 {
   public partial class frmSettings : Form
   {
+    //https://api.crypto.com/v2/{method}
+    public const string URL_PRODUCTION = "https://api.crypto.com/v2/";
+    //https://uat-api.3ona.co/v2/{method}
+    public const string SANDBOX_PRODUCTION = "https://uat-api.3ona.co/v2/";
+
     Settings _settings = null;
 
     public frmSettings(Settings settings)
